@@ -4,5 +4,5 @@
 # 最后为忽略某文件夹
 
 # github 
-# username= dongmianzhong  passwords=z1y2q3!@#
+
 # git push -u origin master
