@@ -1,5 +1,6 @@
+pytest_html==2.1.1
 pytest==4.0.2
 pytest_allure_adaptor==1.7.10
-requests==2.22.0
 xlrd==1.1.0
-pytest_html==2.1.1
+requests==2.22.0
+PyYAML==5.3.1
